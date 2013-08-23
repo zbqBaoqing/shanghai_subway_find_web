@@ -20,4 +20,5 @@ shanghai_subway_find-web
   修改之后就是重启apache服务器了：sudo service apache2 restart，到此你的apache虚拟主机就建好了.
   此程序中的数据是保存在mysql数据库中的，数据就是那几个txt文本文件，只要导入数据库中就行， 但在建立表时要把表的名字和txt文本文件的名字一样，不然的话就要修改程序中所读的表的名字为你 所新起的名字。
   导入txt文本中的数据,以及其他mysql中的设置可参考:
-http://blog.chinaunix.net/uid-28308371-id-3808749.html
+  http://blog.csdn.net/linuxzbq
+  
